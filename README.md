@@ -98,12 +98,9 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zisan19&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="zisan19" />
-  </a>
+  <img src="https://stats.hyo.dev/api/github-trophies?login=zisan19" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zisan19&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="zisan19" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zisan19&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="zisan19" />
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=zisan19" alt="Advanced Stats" />
 </p>
