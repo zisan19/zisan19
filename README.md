@@ -20,7 +20,6 @@
 - 🔭 I’m currently working with **Team-Alpha**.
 - 🌱 I’m currently exploring **Machine Learning fundamentals, Data Preprocessing, and Scikit-learn**.
 - 👯 I’m looking to collaborate on **Open Source Python & AI projects**.
-- 🤝 I’m looking for help with **Advanced Anaconda configurations**.
 - 💬 Ask me about **C++, Machine Learning & Artificial Intelligence**.
 - ⚡ Fun fact: **I love solving algorithmic puzzles! 🤪**
 
