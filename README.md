@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rakibul Alam 👋</h1>
-<h3 align="center">🚀 Front-End Developer | 🤖 AI & Machine Learning Enthusiast</h3>
+<h3 align="center">🤖 AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zisan19&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="zisan19" />
