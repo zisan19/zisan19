@@ -17,7 +17,7 @@
 
 <h3 align="center">👩‍💻 About Me</h3>
 
-- 🔭 I’m currently working with **Team-Alpha**.
+
 - 🌱 I’m currently exploring **Machine Learning fundamentals, Data Preprocessing, and Scikit-learn**.
 - 👯 I’m looking to collaborate on **Open Source Python & AI projects**.
 - 💬 Ask me about **C++, Machine Learning & Artificial Intelligence**.
